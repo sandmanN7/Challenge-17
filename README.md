@@ -9,26 +9,38 @@ The purpose of this project is to use a variety of machine learning methods in o
 
 ![This is an image](https://github.com/sandmanN7/Challenge-17/blob/main/Images/OS.png)
 
+Balanced Accuracy: 62.5% Recall: 65% Precision: 1%
+
 - Undersampling (ClusterCentroids):
 
 ![This is an image](https://github.com/sandmanN7/Challenge-17/blob/main/Images/US.png)
+
+Balanced Accuracy:  Recall:  Precision:
 
 - SMOTE Oversampling:
 
 ![This is an image](https://github.com/sandmanN7/Challenge-17/blob/main/Images/SMOTE.png)
 
+Balanced Accuracy:  Recall:  Precision:
+
 - Combination Over and Under Sampling (SMOTEENN):
 
 ![This is an image](https://github.com/sandmanN7/Challenge-17/blob/main/Images/COMBO.png)
+
+Balanced Accuracy:  Recall:  Precision:
 
 - Balanced Random Forest Classifier:
 
 ![This is an image](https://github.com/sandmanN7/Challenge-17/blob/main/Images/rdm.png)
 
+Balanced Accuracy:  Recall:  Precision:
+
 
 - Easy Ensemble AdaBoost Classifier: 
 
 ![This is an image](https://github.com/sandmanN7/Challenge-17/blob/main/Images/Ada.png)
+
+Balanced Accuracy:  Recall:  Precision:
 
 
 

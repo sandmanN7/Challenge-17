@@ -9,7 +9,7 @@ The purpose of this project is to use a variety of machine learning methods in o
 
 ![This is an image](https://github.com/sandmanN7/Challenge-17/blob/main/Images/OS.png)
 
-- Undersampling:
+- Undersampling (ClusterCentroids):
 
 ![This is an image](https://github.com/sandmanN7/Challenge-17/blob/main/Images/US.png)
 
@@ -17,7 +17,7 @@ The purpose of this project is to use a variety of machine learning methods in o
 
 ![This is an image](https://github.com/sandmanN7/Challenge-17/blob/main/Images/SMOTE.png)
 
-- Combination (Over and Under Sampling):
+- Combination Over and Under Sampling (SMOTEENN):
 
 ![This is an image](https://github.com/sandmanN7/Challenge-17/blob/main/Images/COMBO.png)
 
@@ -36,3 +36,5 @@ The purpose of this project is to use a variety of machine learning methods in o
 
 
 ## Summary
+
+The best of the tried methods in this particular project would be the Easy Ensemble AdaBoost Classifier. It has the highest balanced accuracy, recall and preciscion percentages. Second place for all percentages would go to the Balanced Random Forest Classifier. The Naive, SMOTE and SMOTEENN methods all had roughly the same scores while the Undersampling method had the lowest percentages.

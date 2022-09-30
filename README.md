@@ -23,12 +23,12 @@ The purpose of this project is to use a variety of machine learning methods in o
 
 - Balanced Random Forest Classifier:
 
-![This is an image](https://github.com/sandmanN7/Challenge-17/blob/main/Images/OS.png)
+![This is an image](https://github.com/sandmanN7/Challenge-17/blob/main/Images/rdm.png)
 
 
 - Easy Ensemble AdaBoost Classifier: 
 
-![This is an image](https://github.com/sandmanN7/Challenge-17/blob/main/Images/OS.png)
+![This is an image](https://github.com/sandmanN7/Challenge-17/blob/main/Images/Ada.png)
 
 
 
